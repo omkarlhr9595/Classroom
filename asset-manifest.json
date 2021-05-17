@@ -1,28 +1,26 @@
 {
   "files": {
     "main.css": "/Classroom/static/css/main.3ca3e41e.chunk.css",
-    "main.js": "/Classroom/static/js/main.0ab920d5.chunk.js",
-    "main.js.map": "/Classroom/static/js/main.0ab920d5.chunk.js.map",
-    "runtime-main.js": "/Classroom/static/js/runtime-main.047bd877.js",
-    "runtime-main.js.map": "/Classroom/static/js/runtime-main.047bd877.js.map",
-    "static/js/2.132aa321.chunk.js": "/Classroom/static/js/2.132aa321.chunk.js",
-    "static/js/2.132aa321.chunk.js.map": "/Classroom/static/js/2.132aa321.chunk.js.map",
+    "main.js": "/Classroom/static/js/main.a5ab20a0.chunk.js",
+    "main.js.map": "/Classroom/static/js/main.a5ab20a0.chunk.js.map",
+    "runtime-main.js": "/Classroom/static/js/runtime-main.2717de0e.js",
+    "runtime-main.js.map": "/Classroom/static/js/runtime-main.2717de0e.js.map",
+    "static/js/2.dcb65468.chunk.js": "/Classroom/static/js/2.dcb65468.chunk.js",
+    "static/js/2.dcb65468.chunk.js.map": "/Classroom/static/js/2.dcb65468.chunk.js.map",
     "static/css/3.fcfcd339.chunk.css": "/Classroom/static/css/3.fcfcd339.chunk.css",
-    "static/js/3.ca8275b7.chunk.js": "/Classroom/static/js/3.ca8275b7.chunk.js",
-    "static/js/3.ca8275b7.chunk.js.map": "/Classroom/static/js/3.ca8275b7.chunk.js.map",
-    "static/js/4.f39f1183.chunk.js": "/Classroom/static/js/4.f39f1183.chunk.js",
-    "static/js/4.f39f1183.chunk.js.map": "/Classroom/static/js/4.f39f1183.chunk.js.map",
+    "static/js/3.a6a7d20b.chunk.js": "/Classroom/static/js/3.a6a7d20b.chunk.js",
+    "static/js/3.a6a7d20b.chunk.js.map": "/Classroom/static/js/3.a6a7d20b.chunk.js.map",
     "index.html": "/Classroom/index.html",
     "static/css/3.fcfcd339.chunk.css.map": "/Classroom/static/css/3.fcfcd339.chunk.css.map",
     "static/css/main.3ca3e41e.chunk.css.map": "/Classroom/static/css/main.3ca3e41e.chunk.css.map",
-    "static/js/2.132aa321.chunk.js.LICENSE.txt": "/Classroom/static/js/2.132aa321.chunk.js.LICENSE.txt",
+    "static/js/2.dcb65468.chunk.js.LICENSE.txt": "/Classroom/static/js/2.dcb65468.chunk.js.LICENSE.txt",
     "static/media/Subjects.css": "/Classroom/static/media/img_read.a07bc216.webp",
     "static/media/logo.87a54463.svg": "/Classroom/static/media/logo.87a54463.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.047bd877.js",
-    "static/js/2.132aa321.chunk.js",
+    "static/js/runtime-main.2717de0e.js",
+    "static/js/2.dcb65468.chunk.js",
     "static/css/main.3ca3e41e.chunk.css",
-    "static/js/main.0ab920d5.chunk.js"
+    "static/js/main.a5ab20a0.chunk.js"
   ]
 }
